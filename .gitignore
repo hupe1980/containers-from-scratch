@@ -13,3 +13,7 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# container-from-scratch
+ubuntu_fs
+.vagrant
